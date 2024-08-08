@@ -1,5 +1,10 @@
 ### 💫 About Me:
+High-performing professional with 6+ years of delivering high-impact work in the Data Engineering Industry. Specialized in establishing Master Data Management(MDM) that enables trusted Data to scale by integrating Data governance into daily data processing operations to create Unified Data Access.
+Skilled in developing strong internal and external relationships to facilitate collaborative achievements of priority goals.
 
+Confident in ability to thrive in a fast-paced setting and leverage skills in Core Data concepts, Visualization, and Understanding of data workloads such as transactional or analytical data and how they are implemented on platforms like Microsoft Azure Services to enable team success.
+
+I have experience in Data Cleaning, Data Engineering, Data Wrangling, Business Intelligence, Data Analysis, Data Modelling, Data Migration, and Integration. Skilled in Azure Cloud, Azure Data Factory, Azure Analysis Services, Polybase, Power BI, BI(SSMS/SSRS/SSIS/SSAS), Power Automate, Python, R programming, Machine Learning, Logic Apps, DAX Studio, Tabular Editor, ALM tool kit etc.
 
 
 #### 📬 Find me at
