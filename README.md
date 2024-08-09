@@ -8,7 +8,7 @@ I have experience in Data Cleaning, Data Engineering, Data Wrangling, Business I
 
 
 #### 📬 Find me at
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/akankshakusf/akankshakusf.git)](https://github.com/akankshakusf/akankshakusf.git)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/akanksha-kushwaha-b07b71214)](www.linkedin.com/in/akanksha-kushwaha-b07b71214)
 [![Github Badge](http://img.shields.io/badge/-Github-brown?style=flat-square&logo=github&link=https://github.com/ptyadana/)](https://github.com/akankshakusf) 
 
 
