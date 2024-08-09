@@ -5,7 +5,7 @@ Skilled in developing strong internal and external relationships to facilitate c
 Confident in ability to thrive in a fast-paced setting and leverage skills in Core Data concepts, Visualization, and Understanding of data workloads such as transactional or analytical data and how they are implemented on platforms like Microsoft Azure Services to enable team success.
 
 I have experience in Data Cleaning, Data Engineering, Data Wrangling, Business Intelligence, Data Analysis, Data Modelling, Data Migration, and Integration. Skilled in Azure Cloud, Azure Data Factory, Azure Analysis Services, Polybase, Power BI, BI(SSMS/SSRS/SSIS/SSAS), Power Automate, Python, R programming, Machine Learning, Logic Apps, DAX Studio, Tabular Editor, ALM tool kit etc.
-https://www.linkedin.com/in/akanksha-kushwaha-b07b71214/
+
 
 #### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akanksha-kushwaha-b07b71214/)](https://www.linkedin.com/in/akanksha-kushwaha-b07b71214/)
