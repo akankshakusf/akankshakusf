@@ -1,10 +1,18 @@
 ### 💫 About Me:
-High-performing professional with 6+ years of delivering high-impact work in the Data Engineering Industry. Specialized in establishing Master Data Management(MDM) that enables trusted Data to scale by integrating Data governance into daily data processing operations to create Unified Data Access.
-Skilled in developing strong internal and external relationships to facilitate collaborative achievements of priority goals.
+Hi, thanks for stopping by!
+I’m a data-driven builder with 5+ years of experience in data engineering, now immersed in the world of AI, Deep Learning and Machine Learning. I specialize in crafting intelligent systems that combine structured enterprise data with modern AI to deliver scalable, production-ready solutions.
 
-Confident in ability to thrive in a fast-paced setting and leverage skills in Core Data concepts, Visualization, and Understanding of data workloads such as transactional or analytical data and how they are implemented on platforms like Microsoft Azure Services to enable team success.
+I design Retrieval-Augmented Generation (RAG) pipelines using LangChain frame work, I use FAISS, ChromaDB, AstraDB Vector Store DBs and API-based augmentation to power real-time, context-aware search and Q&A tools. I actively monitor and debug these pipelines with LangSmith to ensure consistent and reliable performance.
 
-I have experience in Data Cleaning, Data Engineering, Data Wrangling, Business Intelligence, Data Analysis, Data Modelling, Data Migration, and Integration. Skilled in Azure Cloud, Azure Data Factory, Azure Analysis Services, Polybase, Power BI, BI(SSMS/SSRS/SSIS/SSAS), Power Automate, Python, R programming, Machine Learning, Logic Apps, DAX Studio, Tabular Editor, ALM tool kit etc.
+I build Multi-Agent frameworks with CrewAI, LangGraph, and Lamini — orchestrating tool-using agents that reason, collaborate, and delegate tasks. With CrewAI, I’ve built role-specific agents for research, summarization, and tool execution, enabling intelligent workflows across use cases.
+
+My multi-model systems are integrated with AWS Bedrock, LangChain, and dynamic routing logic to switch seamlessly between Open AI, Claude, Grok etc. I use session-aware orchestration, S3 for storing artifacts, and deploy models via Elastic Beanstalk and containerized services.
+
+In Machine Learning, I’ve worked on models for churn prediction, dynamic pricing, sentiment classification, and fraud detection using Random Forest, XGBoost, Decision Trees, Logistic Regression, and Gradient Boosting. I use Weights & Biases (WandB) for deep experiment tracking, metric visualization, artifact management, and collaborative model comparison across iterations.
+
+On the Deep Learning side, I perform image generation with Stable Diffusion, neural machine translation with T5 and MarianMT, and built speech recognition systems using Whisper. I’m also hands-on with RNNs for sequence tasks, and CNNs for classification. I frequently prototype in Google Colab and deploy using SageMaker for scalable training, model hosting, and pipeline automation.
+
+I’m passionate about building solutions that are smart, scalable, and ready for enterprise environments.
 
 
 #### 📬 Find me at
