@@ -30,15 +30,3 @@ I’m passionate about building solutions that are smart, scalable, and ready fo
 ![](https://github-readme-stats.vercel.app/api?username=akankshakusf&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akankshakusf&theme=shades-of-purple&hide_border=false)<br/>
 
-
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akankshakusf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-#### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=akankshakusf) -->
