@@ -1,18 +1,20 @@
 ### 💫 About Me:
 Hi, thanks for stopping by!
-I’m a data-driven builder with 5+ years of experience in data engineering, now immersed in the world of AI, Deep Learning and Machine Learning. I specialize in crafting intelligent systems that combine structured enterprise data with modern AI to deliver scalable, production-ready solutions.
+I’m a data-driven builder with 6+ years of experience in data engineering, now immersed in the world of Gen AI, Deep Learning and Machine Learning. I specialize in crafting intelligent systems that combine structured enterprise data with modern AI to deliver scalable, production-ready solutions.
 
-I design Retrieval-Augmented Generation (RAG) pipelines using LangChain frame work, I use FAISS, ChromaDB, AstraDB Vector Store DBs and API-based augmentation to power real-time, context-aware search and Q&A tools. I actively monitor and debug these pipelines with LangSmith to ensure consistent and reliable performance.
+I design MCP Autonomous Agents with OpenAI framework, Agentic RAG pipelines using LangChain framework, use FAISS, ChromaDB, AstraDB  Vector Store DBs and API-based augmentation to power real-time, context-aware search and Q&A tools. I monitor and debug these pipelines with LangSmith to ensure consistent and reliable performance.
 
-I build Multi-Agent frameworks with CrewAI, LangGraph, and Lamini — orchestrating tool-using agents that reason, collaborate, and delegate tasks. With CrewAI, I’ve built role-specific agents for research, summarization, and tool execution, enabling intelligent workflows across use cases.
+I build Multi-Agent frameworks with CrewAI, LangGraph, AutoGen & Strands— orchestrating tool-using agents that reason, collaborate, and delegate tasks. With CrewAI, I’ve built role-specific agents for research, summarization, and tool execution, enabling intelligent workflows across company use cases.
 
 My multi-model systems are integrated with AWS Bedrock, LangChain, and dynamic routing logic to switch seamlessly between Open AI, Claude, Grok etc. I use session-aware orchestration, S3 for storing artifacts, and deploy models via Elastic Beanstalk and containerized services.
 
-In Machine Learning, I’ve worked on models for churn prediction, dynamic pricing, sentiment classification, and fraud detection using Random Forest, XGBoost, Decision Trees, Logistic Regression, and Gradient Boosting. I use Weights & Biases (WandB) for deep experiment tracking, metric visualization, artifact management, and collaborative model comparison across iterations.
+In Machine Learning, I’ve worked on models for churn prediction, dynamic pricing, sentiment classification, and fraud detection using Random Forest, XGBoost, Decision Trees, Logistic Regression, & Gradient Boosting. I use ML Ops Weights & Biases (WandB), Langfuse, Tensorboard  for deep experiment tracking, metric visualization, artifact management, and collaborative model comparison across iterations.
 
-On the Deep Learning side, I perform image generation with Stable Diffusion, neural machine translation with T5 and MarianMT, and built speech recognition systems using Whisper. I’m also hands-on with RNNs for sequence tasks, and CNNs for classification. I frequently prototype in Google Colab and deploy using SageMaker for scalable training, model hosting, and pipeline automation.
+On the Deep Learning side, I perform image generation with Stable Diffusion, neural machine translation with T5 and MarianMT, and built speech recognition systems using Whisper. I’m also hands-on with RNNs for sequence tasks, and CNNs for classification. I frequently prototype in Google Colab & deploy using SageMaker for scalable training, model hosting, and pipeline automation.
 
-I’m passionate about building solutions that are smart, scalable, and ready for enterprise environments.
+I’m passionate about building solutions that are smart, scalable, &  ready for enterprise environments.
+
+Tools & Technologies: LangChain, LangGraph, CrewAI, Lamini, FAISS, ChromaDB, AstraDB, Neo4j, OpenAI, Claude, Groq, Gemma, AWS Bedrock, Amazon S3, Elastic Beanstalk, SageMaker, Google Colab, Power BI, Stable Diffusion, Whisper, T5, MarianMT, Random Forest, XGBoost, Decision Trees, Logistic Regression, Gradient Boosting, CNNs, RNNs, MLflow, Weights & Biases (WandB), LangSmith, Python, Azure Data Factory, SQL, Power Automate, DAX, SSIS, SSRS, SSAS, Tabular Editor.
 
 
 #### 📬 Find me at
