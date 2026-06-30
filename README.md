@@ -1,20 +1,17 @@
 ### 💫 About Me:
-Hi, thanks for stopping by!
-I’m a data-driven builder with 6+ years of experience in data engineering, now immersed in the world of Gen AI, Deep Learning and Machine Learning. I specialize in crafting intelligent systems that combine structured enterprise data with modern AI to deliver scalable, production-ready solutions.
+Hello — thanks for stopping by! 👋
 
-I design MCP Autonomous Agents with OpenAI framework, Agentic RAG pipelines using LangChain framework, use FAISS, ChromaDB, AstraDB  Vector Store DBs and API-based augmentation to power real-time, context-aware search and Q&A tools. I monitor and debug these pipelines with LangSmith to ensure consistent and reliable performance.
+I'm Akanksha, an AI/ML Engineer and AWS Community Builder (AI Engineering) with 5+ years of experience. Under ML, I work on claims-based risk stratification, surgical-escalation modeling, cost-trajectory forecasting— and on the same engineering foundation, I build production-grade agentic systems: multi-agent orchestration, tool-augmented LLM reasoning, MCP-grounded context, and guardrail-enforced execution on live cloud infrastructure. I build and share in public through articles, posts, reviews, and hackathons — always from the production side. 🚀
 
-I build Multi-Agent frameworks with CrewAI, LangGraph, AutoGen & Strands— orchestrating tool-using agents that reason, collaborate, and delegate tasks. With CrewAI, I’ve built role-specific agents for research, summarization, and tool execution, enabling intelligent workflows across company use cases.
+A few things I've built:
 
-My multi-model systems are integrated with AWS Bedrock, LangChain, and dynamic routing logic to switch seamlessly between Open AI, Claude, Grok etc. I use session-aware orchestration, S3 for storing artifacts, and deploy models via Elastic Beanstalk and containerized services.
+1. Claims-based predictive models — risk stratification, cohort segmentation, and cost-trajectory forecasting — with leakage-safe temporal validation, calibration, and explainability for clinical and operational decision support.
+2. Classifiers like a musculoskeletal surgical-escalation models that flags high-risk members for early intervention, turning large-scale claims data into actionable clinical signals.
+3. Supervisor-coordinated multi-agent systems with role-specialized workers — distributed tracing for evidence lineage and replayability, with RBAC, constraints, and PII redaction as first-class primitives.
+4. An agentic AIOps platform that drives full incident lifecycles on live AWS infrastructure, using detection, investigation and remediation orchestration across CloudWatch, logs, and CloudTrail for root-cause analysis.
+5. Authored declarative Custom Skills and context in .md that steer agents from open exploration to directed procedure-following, with guardrails validated by confirming agents refuse out-of-scope tasks. 
 
-In Machine Learning, I’ve worked on models for churn prediction, dynamic pricing, sentiment classification, and fraud detection using Random Forest, XGBoost, Decision Trees, Logistic Regression, & Gradient Boosting. I use ML Ops Weights & Biases (WandB), Langfuse, Tensorboard  for deep experiment tracking, metric visualization, artifact management, and collaborative model comparison across iterations.
-
-On the Deep Learning side, I perform image generation with Stable Diffusion, neural machine translation with T5 and MarianMT, and built speech recognition systems using Whisper. I’m also hands-on with RNNs for sequence tasks, and CNNs for classification. I frequently prototype in Google Colab & deploy using SageMaker for scalable training, model hosting, and pipeline automation.
-
-I’m passionate about building solutions that are smart, scalable, &  ready for enterprise environments.
-
-Tools & Technologies: LangChain, LangGraph, CrewAI, Lamini, FAISS, ChromaDB, AstraDB, Neo4j, OpenAI, Claude, Groq, Gemma, AWS Bedrock, Amazon S3, Elastic Beanstalk, SageMaker, Google Colab, Power BI, Stable Diffusion, Whisper, T5, MarianMT, Random Forest, XGBoost, Decision Trees, Logistic Regression, Gradient Boosting, CNNs, RNNs, MLflow, Weights & Biases (WandB), LangSmith, Python, Azure Data Factory, SQL, Power Automate, DAX, SSIS, SSRS, SSAS, Tabular Editor.
+Python · SQL · TypeScript · TensorFlow (Keras) · PyTorch · LangChain · LangGraph · Strands · Tableau · Power BI · TensorBoard · ML · DL · NLP · LLMs · RAG · AWS · Azure · GCP · SageMaker · MLflow · Kubernetes · FastAPI · Streamlit · GitHub · Claude Code · Cursor
 
 
 #### 📬 Find me at
